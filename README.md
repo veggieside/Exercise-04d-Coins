@@ -1,19 +1,33 @@
-# Exercise-04c-Enemies
+# 
 
-## Implementation
+# 2D Platformer 10/25/25
 
-## References
+# 
 
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt\_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
+# A simple 2D platformer with three levels
 
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
+# 
 
-## Future Development
+# Implementation
 
-## Created by
+* # Base criteria
+* Multiple levels
+* Sound effects for: Player, enemies, coins, and level end
+* Different background music for each level
+* Animated coin sprite
+* Added start menu
+
+# 
+
+# \## References
+
+# 
+
+# \## Future Development
+
+# 
+
+# \## Created by
 
 Scott Trout
 
